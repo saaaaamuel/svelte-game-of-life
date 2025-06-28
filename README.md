@@ -1,4 +1,8 @@
-# sv
+# Svelte Game Of Life
+
+https://saaaaamuel.github.io/svelte-game-of-life
+
+## sv
 
 Everything you need to build a Svelte project, powered by [`sv`](https://github.com/sveltejs/cli).
 
